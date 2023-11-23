@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm 권나현</h1>
-<h4 align="leftr">Soongsil University / School of AI Covergence</h4>
+<h4 align="left">Soongsil University</h4>
+<h4 align="left">School of AI Covergence</h4>
 
 
 
