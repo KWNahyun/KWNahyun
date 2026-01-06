@@ -135,7 +135,7 @@ AI 모델 개발 및 임베디드 시스템 구현에 필요한 핵심 기술 �
 
 * **TOEIC:** 900+
 
-* **OPIC:** 준비 중
+* **OPIC:** IH
 
 * **Special Experience:** ICT English Project Presentation Contest 1등 수상 (2024)
 
